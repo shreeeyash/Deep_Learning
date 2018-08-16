@@ -1,2 +1,2 @@
 ## MNIST</br>
-*A CNN based approach for MNIST dataset with tensorflow*
+*A CNN and ResNet50 based approach for MNIST dataset with tensorflow*
