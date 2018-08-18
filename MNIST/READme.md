@@ -3,4 +3,4 @@
 #### CNN model
 X >> convolve >> Z1 >> activation >> max_pool >> convolve >> Z2 >> activation >> max_pool>> flatten>>Dense>>softmax
 #### ResNet50 model
-![Identity Block]()
+![Identity Block](/MNIST/images/idblock3.png)
