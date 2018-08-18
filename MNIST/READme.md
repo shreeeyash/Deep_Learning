@@ -1,2 +1,4 @@
 ## MNIST</br>
 *A CNN and ResNet50 based approach for MNIST dataset with tensorflow*
+#### CNN model
+X >> convolve >> Z1 >> activation >> max_pool >> convolve >> Z2 >> activation >> max_pool>> flatten>>Dense>>softmax
