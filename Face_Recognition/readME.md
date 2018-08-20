@@ -6,4 +6,4 @@ Mainly two libraries were used - OpenCV and face_recognition. face_recognition A
 Here I have used the functions provided by face_recognition library to find encodings and distance.
 
 ## Dataset
-As we already have pretrained model, we dont need millions of images to train *Inception Model*, we only need *some(~20 images)* images of person we want to recognize. Dataset can be created using webcam for which i have provided the code in create_dataset_webcam.py file. Other option is to manually download images from web.
+As we already have pretrained model, we dont need millions of images to train *Inception Model*, we only need *some(~20 images)* images of person we want to recognize. Dataset can be created using webcam for which i have provided the code in [create_dataset_webcam.py](https://github.com/Shreeyash-iitr/Deep_Learning/blob/master/Face_Recognition/create_dataset_webcam.py) file. Other option is to manually download images from web.
